@@ -1,0 +1,24 @@
+{
+  "name": "node-fetch2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krabecb/node-fetch2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krabecb/node-fetch2/issues"
+  },
+  "homepage": "https://github.com/krabecb/node-fetch2#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-fetch": "^2.6.7"
+  }
+}
